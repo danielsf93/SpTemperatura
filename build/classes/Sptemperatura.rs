@@ -1,0 +1,1 @@
+sptemperatura.Sptemperatura
